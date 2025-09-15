@@ -42,7 +42,7 @@ export function Footer() {
 
           <div className="border-t border-border/20 mt-8 pt-8 text-center">
             <p className="text-muted-foreground font-[var(--font-dm-sans)] flex items-center justify-center gap-2">
-              © {currentYear} John Developer. Made with
+              © {currentYear} Chanukya Kumar. Made with
               <Heart className="w-4 h-4 text-red-500 animate-pulse" />
               and lots of coffee.
             </p>

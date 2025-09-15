@@ -52,19 +52,19 @@ export function ContactSection() {
     {
       icon: Mail,
       label: "Email",
-      value: "john@example.com",
-      href: "mailto:john@example.com",
+      value: "chanukyachintha2307@gmail.com",
+      href: "chanukyachintha2307@gmail.com",
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567",
+      value: "+91 9550287259",
+      href: "tel:+919550287259",
     },
     {
       icon: MapPin,
       label: "Location",
-      value: "San Francisco, CA",
+      value: "Vijayawada, India",
       href: "#",
     },
   ]
